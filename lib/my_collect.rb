@@ -8,4 +8,3 @@ def my_collect(array)
   end
   return new_array
 end
-
